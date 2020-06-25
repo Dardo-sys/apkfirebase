@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnAdivinar"
+        android:layout_width="140dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+        android:background="#25C8F9"
+        android:text="MI SUERTE"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/txtResFinal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtIngNum"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textJuegoDeAzar"
+        android:layout_width="291dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="36dp"
+        android:text="Adivine el Número"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/txtIngNum"
+        android:layout_width="213dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:ems="10"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/btnAdivinar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/btnAyuda"
+        android:layout_width="88dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="20dp"
+        android:background="#25C8F9"
+        android:text="Pistas"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/txtVidas"
+        app:layout_constraintEnd_toStartOf="@+id/btnMeRindo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btnMeRindo"
+        android:layout_width="88dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="#25C8F9"
+        android:text="Me Retiro"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/txtVidas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnAyuda"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="299dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="32dp"
+        android:text="Escriba un número del 1 al 100"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textJuegoDeAzar" />
+
+    <TextView
+        android:id="@+id/txtVidas"
+        android:layout_width="411dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="80dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtIntentos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtResFinal" />
+
+    <TextView
+        android:id="@+id/txtIntentos"
+        android:layout_width="413dp"
+        android:layout_height="32dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtAyuda"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtVidas" />
+
+    <TextView
+        android:id="@+id/txtAyuda"
+        android:layout_width="411dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="10dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtIntentos"
+        app:layout_constraintVertical_bias="0.75" />
+
+    <TextView
+        android:id="@+id/txtResFinal"
+        android:layout_width="364dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="32dp"
+        android:textAlignment="center"
+        android:textColor="#4CAF50"
+        android:textSize="30sp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/btnAyuda"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAdivinar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.navapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.2.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\10f5aaa1f6ad9f1ca1fda9317a520b4e\core-1.2.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/navappicon2"
+15-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:7:9-45
+16        android:label="@string/app_name"
+16-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:8:9-41
+17        android:noHistory="true"
+17-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:9:9-33
+18        android:roundIcon="@drawable/navappicon2"
+18-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:10:9-50
+19        android:supportsRtl="true"
+19-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:12:9-40
+22        <activity android:name="com.example.navapp.MainSalir" />
+22-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:13:9-56
+22-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:13:19-44
+23        <activity android:name="com.example.navapp.salir" />
+23-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:14:9-43
+23-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:14:19-40
+24        <activity android:name="com.example.navapp.conectando2" />
+24-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:15:9-49
+24-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:15:19-46
+25        <activity android:name="com.example.navapp.conectando" />
+25-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:16:9-48
+25-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:16:19-45
+26        <activity android:name="com.example.navapp.ayudaSuerte" />
+26-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:17:9-49
+26-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:17:19-46
+27        <activity android:name="com.example.navapp.ayudaContador" />
+27-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:18:9-51
+27-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:18:19-48
+28        <activity android:name="com.example.navapp.Main9Activity" />
+28-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:19:9-51
+28-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:19:19-48
+29        <activity android:name="com.example.navapp.Main8Activity" />
+29-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:20:9-51
+29-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:20:19-48
+30        <activity android:name="com.example.navapp.Main7Activity" />
+30-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:21:9-51
+30-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:21:19-48
+31        <activity android:name="com.example.navapp.Main6Activity" />
+31-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:22:9-51
+31-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:22:19-48
+32        <activity android:name="com.example.navapp.Main5Activity" />
+32-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:23:9-51
+32-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:23:19-48
+33        <activity android:name="com.example.navapp.Main4Activity" />
+33-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:24:9-51
+33-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:24:19-48
+34        <activity android:name="com.example.navapp.Main3Activity" />
+34-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:25:9-51
+34-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:25:19-48
+35        <activity android:name="com.example.navapp.Main2Activity" />
+35-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:26:9-51
+35-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:26:19-48
+36        <activity android:name="com.example.navapp.MainActivity" />
+36-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:27:9-50
+36-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:27:19-47
+37        <activity
+37-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:28:9-36:20
+38            android:name="com.example.navapp.SplashScreenActivity"
+38-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:29:13-49
+39            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+39-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:30:13-69
+40            <intent-filter>
+40-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:31:13-35:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:32:17-69
+41-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:32:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:34:17-77
+43-->C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\navApp\app\src\main\AndroidManifest.xml:34:27-74
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

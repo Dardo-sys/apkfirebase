@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.navapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/navappicon2"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:roundIcon="@drawable/navappicon2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainSalir"></activity>
+        <activity android:name=".salir" />
+        <activity android:name=".conectando2" />
+        <activity android:name=".conectando" />
+        <activity android:name=".ayudaSuerte" />
+        <activity android:name=".ayudaContador" />
+        <activity android:name=".Main9Activity" />
+        <activity android:name=".Main8Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

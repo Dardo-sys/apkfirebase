@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoapp"
+    tools:context=".Main7Activity">
+
+    <Button
+        android:id="@+id/btnReiniciar2"
+        android:layout_width="111dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="150dp"
+        android:background="#F92525"
+        android:text="REINICIAR"
+        android:textColor="#F8F7F7"
+        android:textColorHighlight="#FF0000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/value"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btnVolver7"
+        android:layout_width="103dp"
+        android:layout_height="47dp"
+        android:layout_marginBottom="24dp"
+        android:text="VOLVER"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/value"
+        android:layout_width="342dp"
+        android:layout_height="203dp"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="131dp"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="150sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/plusBtn"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_marginBottom="200dp"
+        android:text="+"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/minusBtn"
+        android:layout_width="191dp"
+        android:layout_height="188dp"
+        android:layout_marginBottom="200dp"
+        android:text="-"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnAyuda7"
+        android:layout_width="105dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="26dp"
+        android:text="AYUDA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

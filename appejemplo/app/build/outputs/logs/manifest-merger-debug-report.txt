@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\12b815bf34e4a244e9340037cef02552\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\3c2b786fad34fe2b1b982cb38e36ea80\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\407089f890337c4f4233fafe27a75748\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f374b0827a4b5c771e9fd14a1be7df48\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\66c17bfd209960233bdb36c1d206074f\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\d966dfe606555fc5fbc04474860a55b5\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c56217b425fea54462665cf6f76c825d\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c39335ed13a8cef7389ce2b8ce395bb8\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\27842e02e437030c68242afdcd96c238\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\2c5a8170a731ff89b091ef1602abfc97\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\848a77c506040fea825ec49bf1979921\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\18dcf8f1aa0b986f423014f2052f5ca6\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\bae5cbf3da43ca1902c7545c352617f4\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\1d49013dc8c88845d284808a9a16ab6f\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9f1e4ec6ac66301e237d4052af9a1cb6\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c175e9c3ff8aaa55ba1dd81df034823e\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\04c07b11aaeac2c5b7ea054f264ed312\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f0cdd4c17584562bcaa265776affa37b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\602221c1807e37c5dfee019ac3d5acae\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\63d9516326185f35593a0223a2af68b3\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\ebae7279f2671b3c903db086bfcde9f9\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\591c9a3f1fdd7fded1203bff26f80653\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\a33f6395eb4daa93aace94c4a0cbcf5b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9b52f62db679c39deed2886660daf858\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\4b9a688b539c1441750a1e886151a2a3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\7c80c5aefb89e1475584adfb74fb5786\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\3c2b786fad34fe2b1b982cb38e36ea80\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\3c2b786fad34fe2b1b982cb38e36ea80\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c175e9c3ff8aaa55ba1dd81df034823e\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c175e9c3ff8aaa55ba1dd81df034823e\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.appejemplo.MainActivity
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\12b815bf34e4a244e9340037cef02552\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\12b815bf34e4a244e9340037cef02552\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\3c2b786fad34fe2b1b982cb38e36ea80\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\3c2b786fad34fe2b1b982cb38e36ea80\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\407089f890337c4f4233fafe27a75748\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\407089f890337c4f4233fafe27a75748\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f374b0827a4b5c771e9fd14a1be7df48\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f374b0827a4b5c771e9fd14a1be7df48\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\66c17bfd209960233bdb36c1d206074f\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\66c17bfd209960233bdb36c1d206074f\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\d966dfe606555fc5fbc04474860a55b5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\d966dfe606555fc5fbc04474860a55b5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c56217b425fea54462665cf6f76c825d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c56217b425fea54462665cf6f76c825d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c39335ed13a8cef7389ce2b8ce395bb8\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c39335ed13a8cef7389ce2b8ce395bb8\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\27842e02e437030c68242afdcd96c238\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\27842e02e437030c68242afdcd96c238\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\2c5a8170a731ff89b091ef1602abfc97\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\2c5a8170a731ff89b091ef1602abfc97\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\848a77c506040fea825ec49bf1979921\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\848a77c506040fea825ec49bf1979921\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\18dcf8f1aa0b986f423014f2052f5ca6\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\18dcf8f1aa0b986f423014f2052f5ca6\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\bae5cbf3da43ca1902c7545c352617f4\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\bae5cbf3da43ca1902c7545c352617f4\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\1d49013dc8c88845d284808a9a16ab6f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\1d49013dc8c88845d284808a9a16ab6f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9f1e4ec6ac66301e237d4052af9a1cb6\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9f1e4ec6ac66301e237d4052af9a1cb6\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c2bbc8471f67183c7e4bc7ed1cfd6a97\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c175e9c3ff8aaa55ba1dd81df034823e\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\c175e9c3ff8aaa55ba1dd81df034823e\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\04c07b11aaeac2c5b7ea054f264ed312\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\04c07b11aaeac2c5b7ea054f264ed312\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f0cdd4c17584562bcaa265776affa37b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\f0cdd4c17584562bcaa265776affa37b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\602221c1807e37c5dfee019ac3d5acae\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\602221c1807e37c5dfee019ac3d5acae\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\63d9516326185f35593a0223a2af68b3\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\63d9516326185f35593a0223a2af68b3\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\ebae7279f2671b3c903db086bfcde9f9\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\ebae7279f2671b3c903db086bfcde9f9\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\591c9a3f1fdd7fded1203bff26f80653\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\591c9a3f1fdd7fded1203bff26f80653\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\a33f6395eb4daa93aace94c4a0cbcf5b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\a33f6395eb4daa93aace94c4a0cbcf5b\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9b52f62db679c39deed2886660daf858\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\9b52f62db679c39deed2886660daf858\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\4b9a688b539c1441750a1e886151a2a3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\4b9a688b539c1441750a1e886151a2a3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\7c80c5aefb89e1475584adfb74fb5786\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dardo\.gradle\caches\transforms-2\files-2.1\7c80c5aefb89e1475584adfb74fb5786\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dardo\Desktop\Nueva carpeta\androidIstic\Istic-Android-ejercicios\appejemplo\app\src\main\AndroidManifest.xml
